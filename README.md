@@ -4,9 +4,8 @@ This repository demonstrates a lightweight enterprise integration platform inspi
 
 The project focuses on API-based service exposure, standardized data exchange formats, and documentation-first design to support onboarding, reuse, and internal adoption.
 
----
-
 ## Purpose
+
 
 Enterprise integration teams often need to:
 - Expose internal services in a standardized way
